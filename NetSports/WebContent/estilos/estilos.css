@@ -1,0 +1,127 @@
+@charset "ISO-8859-1";
+
+.javasports-navbar-bg-color {
+	color: #000000;
+	background-color: #FF9900;
+}
+
+.javasports-navbar-pos {
+	margin-right: 300px;
+}
+
+.link-style:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.link-style:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.link-style:active {
+  color: #6500a8;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.btn-false-search {
+	border: none;
+	background-color: inherit;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+}
+
+.btn-false-search:hover {
+	background: #eee;
+}
+
+.input-below {
+	width: 90px;
+}
+
+.inner-addon {
+	position: relative;
+}
+
+.inner-addon .fa {
+	position: absolute;
+	padding: 10px;
+}
+
+.left-addon .fa {
+	left: 0px;
+}
+
+.left-addon input {
+	padding-left: 30px;
+}
+
+.javasports-button-color {
+	color: #fff;
+	background-color: #146EB4;
+}
+
+.javasports-button-color.focus, .javasport-button-color:focus {
+	color: #fff;
+	background-color: #480084;
+	border-color: #480084;
+	outline: none;
+	box-shadow: none;
+}
+
+.javasports-main-input {
+	margin-left: 300px;
+}
+
+.javasports-button-color:hover {
+	color: #fff;
+	background-color: #480084;
+	border-color: #480084;
+	outline: none;
+	box-shadow: none;
+}
+
+.javasports-button-color.active, .javasport-button-color:active {
+	color: #fff;
+	background-color: #480084;
+	border-color: #480084;
+	outline: none;
+}
+
+.javasports-button-color.active.focus, .javasports-button-color.active:focus,
+	.javasports-button-color.active:hover, .javasports-button-color.active.focus,
+	.javasports-button-color.active:focus, .javasports-button-color.active:hover
+	{
+	color: #fff;
+	background-color: #480084;
+	border-color: #480084;
+	outline: none;
+	box-shadow: none;
+}
+
+.javasports-center-main {
+	padding: 20px;
+	text-align: center;
+}
+
+.javasports-scroll-left {
+	overflow-x: auto;
+}
+
+
+
+/* li.borderless{
+	border-left: 0 none;
+	border-right: 0 none;
+	cursor: pointer;
+} */
